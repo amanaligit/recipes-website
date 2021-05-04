@@ -4,9 +4,12 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
+
 <h1 align="center">
-  Gatsby's hello-world starter
+  Frontend Recipes-website project
 </h1>
+
+<h2>Netlify demo: https://simply-recipes-aman.netlify.app </h2>
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
